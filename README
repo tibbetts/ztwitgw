@@ -1,0 +1,6 @@
+Based on ztwitgw by eichin@thok.org
+
+Put a dotfile in ~/.ztwit_auth containing a single line, username:password.
+
+
+
